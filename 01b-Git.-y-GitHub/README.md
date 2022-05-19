@@ -242,7 +242,7 @@ Si queremos buscar cuántas veces utilizamos un atributo de HTML lo hacemos con 
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Me encanto, super completa, vengo de Coder House y ya la introduccion es mas completa que el curso. Gracias ojala aplique.
       </a>
     </td>
   </tr>
