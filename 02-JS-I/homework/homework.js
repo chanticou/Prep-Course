@@ -264,7 +264,7 @@ function esVocal(letra){
   }
 }
 
-esVocal('a')
+
 
 // No modificar nada debajo de esta línea
 // --------------------------------

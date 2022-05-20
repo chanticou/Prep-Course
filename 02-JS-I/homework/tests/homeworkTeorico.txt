@@ -1,0 +1,54 @@
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables => Una variable es un espacio en la memoria de una computadora, que significa esto?
+    es como tener una cajita vacia, a la cual le vas a poner un nombre, (miCaja), y adentro le vas a guardar algo..
+    lo que quieras, no importa que, ahora sea lo que tenga adentro, la caja va a guardar eso pero se va a seguir llamando
+     miCaja. Si adentro guardaste utiles escolares, va a ser miCaja de utiles.. si adentro tiene una media se va a 
+     seguir llamandose miCaja, solo que ahora va a servir para guardar esa media. Si a mi Caja le cambias las medias y 
+     le pones manzanas, ella va a seguir teniendo el mismo nombre, solo que ahora va a servir para guardar manzanas.
+ 
+ * Strings => Cuando nos comunicamos con una computadora, le tenemos que decir que tipo de dato estamos manejando, 
+    ¿Que significa esto?,  le tenemos que avisar para que nos interprete y entienda, si le estamos escribiendo un numero,
+    1,2,4,78, o si le estamos escribiendo simplemente palabras que pueden contener numeros, por ejemplo: 
+    'Los TRES chanchitos caminaron por el bosque', ese 'TRES', al ponerlo entre comillas en el area de ifnromatica,
+    le estamos diciendo a la computadora que se trata de un STRING, una cadena de caracteres.
+
+ * Funciones (argumentos, `return`)
+    En programacion, cuando hacemos paginas web, jueguitos, o muchas otras cosas, tenemos que comunicarnos con
+    una computadora que solo entiende 'lenguaje estructurado'(codigo de programacion).Existen metodos 
+    (formas de escribir el codigo) ya creados para que nos sea mas facil y prolijo de hacer. Una de ellas se llama
+    'Funciones', que sirven principalmente para no  repetir codigo. Vamos a dar un ejemplo de que podria yo hacer
+    con ellas, cuando alguien juega a un jueguito, que fue creado por un programador o un equipo de ellos,
+    mi personaje me saluda con mi nombre, pero si otra persona juega, ese mismo personaje tiene la capacidad 
+    de saludarlo con su nombre; ¿Como se logra esto? a travez de las FUNCIONES. Cuando un programador crea una funcion,
+    es con el proposito de 'reutilizar el codigo', de que este no se repita muchas veces ya que no es necesario.
+    Si creamos una funcion que se llame 'Saludar(){ accion que quiero que haga mi personaje }',cuando esta misma 
+    cuando es 'invocada' (se escribe el nombre de la funcion)Saludar(), puede ejecutar una accion las veces que querramos.
+    Pero no es la unica capacidad que tienen, las funciones son tan poderosas, 
+    que pueden recibir adentro de los parentesis(parametros)algo que se llama argumentos, pero ¿Que
+    es un argumento? Podria ser cualquier cosa, en este caso deseamos que sea un nombre, cualquier nombre que escribamos
+    asi la misma podria decirnos 'Hola! has vuelto 'NOMBRE QUE PASO COMO PALAMETRO''. Para que la nuestra funcion
+    nos 'devuelva' el saludo o la accion que queremos que haga y le indiquemos que finalize tenemos que escribir algo
+    llamado 'return' eso significa, bueno ya terminaste aca, ahora retorname la accion que te pedi. Para que 
+    nuestra querida y poderosa funcion() haga todo eso que le pedimos, tenemos que hacer un ultimo paso, y es 'ejecutarla'
+    o 'llamarla', solo hay que escribir su nombre, y si posee 'argumentos' escribirlos, como seria en este caso?
+    bueno facil, Saludar('Ramon'),
+
+
+ * Declaraciones `if`
+    Tanto en programacion como en la vida real, tenemos diferentes caminos para elegir pero, ¿como le comunico a mi 
+    computadora cual elegir? a travez de algo que se llaman operadores ternarios o condicionales.
+    Vamos a llevarlo a la programacion de un jueguito de pokemon, le tengo que decir
+    a mi codigo que quiero que SI tiro la pokebola roja salga PIKACHU, PERO si tiro la pokebola verde, salga BOLBASOR,
+    sino, que me diga 'Pokebola vacia'.
+    Eso se logra simplemente, ejecutando estos operadores poderosos que a travez de una sintaxis estructurada, van a
+    darte la posibilidad de elegir caminos infinitos y hacer lo que se te ocurra.
+
+ * Valores booleanos (`true`, `false`)
+    En programacion hay una forma para decirle a nuestro progrmada si algo es verdadero o falso, y eso es a travez de 
+    las palabras reservadas 'true' o 'false', verdadero o falso. 
+    Vamos a poner un ejemplo, hay paginas que te piden que ingreses tu edad, como funciona eso por detras?
+    Bueno, hay un codigo (puede ser un operador tenario(if)), que le voy a decir: Ingresa tu nombre: Aca ingreso mi nombre,
+    SI TRUE (si efectivamente ingrese mi nombre), el programa me dice 'HOLA 'NOMBRE'', si no lo ingrese, (FALSE),me dice,
+    'Si queres ingresa a mi pagina, por favor ingresa tu nombre'.
