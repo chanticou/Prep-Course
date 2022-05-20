@@ -18,22 +18,23 @@
     En programacion, cuando hacemos paginas web, jueguitos, o muchas otras cosas, tenemos que comunicarnos con
     una computadora que solo entiende 'lenguaje estructurado'(codigo de programacion).Existen metodos 
     (formas de escribir el codigo) ya creados para que nos sea mas facil y prolijo de hacer. Una de ellas se llama
-    'Funciones', que sirven principalmente para no  repetir codigo. Vamos a dar un ejemplo de que podria yo hacer
+    'Funciones', ¿cual es su poder? NO REPETIR CODIGO. Vamos a dar un ejemplo de que podria yo hacer
     con ellas, cuando alguien juega a un jueguito, que fue creado por un programador o un equipo de ellos,
     mi personaje me saluda con mi nombre, pero si otra persona juega, ese mismo personaje tiene la capacidad 
     de saludarlo con su nombre; ¿Como se logra esto? a travez de las FUNCIONES. Cuando un programador crea una funcion,
-    es con el proposito de 'reutilizar el codigo', de que este no se repita muchas veces ya que no es necesario.
-    Si creamos una funcion que se llame 'Saludar(){ accion que quiero que haga mi personaje }',cuando esta misma 
-    cuando es 'invocada' (se escribe el nombre de la funcion)Saludar(), puede ejecutar una accion las veces que querramos.
-    Pero no es la unica capacidad que tienen, las funciones son tan poderosas, 
-    que pueden recibir adentro de los parentesis(parametros)algo que se llama argumentos, pero ¿Que
-    es un argumento? Podria ser cualquier cosa, en este caso deseamos que sea un nombre, cualquier nombre que escribamos
-    asi la misma podria decirnos 'Hola! has vuelto 'NOMBRE QUE PASO COMO PALAMETRO''. Para que la nuestra funcion
-    nos 'devuelva' el saludo o la accion que queremos que haga y le indiquemos que finalize tenemos que escribir algo
-    llamado 'return' eso significa, bueno ya terminaste aca, ahora retorname la accion que te pedi. Para que 
-    nuestra querida y poderosa funcion() haga todo eso que le pedimos, tenemos que hacer un ultimo paso, y es 'ejecutarla'
-    o 'llamarla', solo hay que escribir su nombre, y si posee 'argumentos' escribirlos, como seria en este caso?
-    bueno facil, Saludar('Ramon'),
+    es con el proposito de 'reutilizar el codigo' ¿Que significa esto? escribirlo UNA sola vez PERO usarlo y reutilizarlo
+    cuantas veces lo necesitemos.
+     Si creamos una funcion que se llame 'Saludar(){ accion que quiero que haga mi personaje }'voy a escribir UNA sola 
+     vez mi codigo pero usarlo un millon si es necesario. ¿Como? cuando la funcion es 'invocada'
+      (se escribe el nombre de la misma)Saludar(), puede ejecutar lo que queremos que haga las veces que querramos.
+     Pero no es la unica capacidad que tienen, las funciones, son tan poderosas, que pueden recibir adentro de los
+    parentesis(parametros)algo que se llama argumentos, pero ¿Que es un argumento? Podria ser cualquier cosa, en este 
+    caso deseamos que sea un nombre, cualquier nombre que escribamos asi la misma podria decirnos 'Hola! has vuelto
+    'NOMBRE QUE PASO COMO PALAMETRO''. Para que la nuestra funcionnos 'devuelva' el saludo o la accion que queremos 
+    que haga y le indiquemos que finalize tenemos que escribir algo llamado 'return' eso significa, bueno ya terminaste
+    aca, ahora retorname la accion que te pedi. Para que nuestra querida y poderosa funcion() haga todo eso que le 
+    pedimos, tenemos que hacer un ultimo paso, y es 'ejecutarla' o 'llamarla', solo hay que escribir su nombre,
+     y si posee 'argumentos' escribirlos, como seria en este caso? bueno facil, Saludar('Ramon'),
 
 
  * Declaraciones `if`
