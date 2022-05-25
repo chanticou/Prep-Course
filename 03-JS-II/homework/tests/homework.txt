@@ -1,0 +1,17 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+En programacion, el ciclo'for', sirve para poder repetir nuestro codigo cuantas veces se lo indiquemos,
+¿Como hariamos eso?,bueno, puedo decirle donde quiero que empieze, hasta donde quiero que llegue,
+y finalmente si quiero que ese numero ascienda o descienda. Vamos a poner el ejemplo de un jueguito, yo tengo una cantidad
+de puntos ganada, pero quiero que mi personaje cuando agarre una moneda gane 20 puntos mas, entonces ahi nos serviria
+usar un ciclo for, el valor inicial serian mis puntos, la condicion seria que cada vez que agarre una moneda mis puntos
+fuesen menores o iguales al puntaje de la moneda, y le diria al ciclo que aumente su valor, tambien podria aplicarse
+a una moneda que te haga perder puntos y ahi le tendria que pedir que disminuya su valor.
+
+* `&&`, `||`, `!`
+En programacion cuando queremos decir 'y, o ó negar ' se  concoen como 'operadores logicos', cuando hablamos solemos decir,
+'Quiero esto Y aquello', o 'Quiero esto O eso' o 'Esto NO', en en programacion es igual, solamente que se usan 
+diferentes simbolos. Para decir Y usamos el operador logico AND que se expresa (&&), para O usamos el operador
+ logico OR que se expresa (||) y finalmente para la negacion usamos el operador logico !.
+ Estos valores suelen devolver un valor booleano, es decir VERDADERO(true) o FALSO(false).

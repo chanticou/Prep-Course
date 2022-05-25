@@ -5,7 +5,7 @@
     es como tener una cajita vacia, a la cual le vas a poner un nombre, (miCaja), y adentro le vas a guardar algo..
     lo que quieras, no importa que, ahora sea lo que tenga adentro, la caja va a guardar eso pero se va a seguir llamando
      miCaja. Si adentro guardaste utiles escolares, va a ser miCaja de utiles.. si adentro tiene una media se va a 
-     seguir llamandose miCaja, solo que ahora va a servir para guardar esa media. Si a mi Caja le cambias las medias y 
+     seguir llamando miCaja, solo que ahora va a servir para guardar esa media. Si a mi Caja le cambias las medias y 
      le pones manzanas, ella va a seguir teniendo el mismo nombre, solo que ahora va a servir para guardar manzanas.
  
  * Strings => Cuando nos comunicamos con una computadora, le tenemos que decir que tipo de dato estamos manejando, 

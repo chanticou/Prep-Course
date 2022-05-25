@@ -1,0 +1,17 @@
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays=> Como ya hemos explicado antes, una variable es un espacio en memoria, y representado en un ejemplo
+    de la vida real, seria como guardan una sola cosa (la que quieras) es una cajita  y ponerle un nombre.
+    Bueno un array es algo parecido, nada mas que se pueden guardar muchas cosas.
+      Es como si tuviese una caja con su nombre, pero en vez de guardar solo una cosa, puedo guardar todas las que
+      se me ocurran. En programacion esto se representa con un corchete [].
+    Los datos que podemos guardar en nuestro array[] pueden ser de tipo numerico (numeros), pueden ser palabras(strings),
+    pueden se valores booleanos(true or false). Al tener muchas cosas guardadas en un mismo lugar, la pregunta es:
+    ¿Como hacemos para acceder a cada una de ellas?, Bueno, se han creado algo llamados 'Metodos de array', que son 
+    super poderoso y hacen diferentes cosas; por ejemplo tenemos unos importantes que lo que hace es recorrer 
+    cada propiedad(cada cosa que guardo) de mi array, otros guardan cosas en el array, una propiedad mas, otros ponen
+    una condicion a mi array y asi hay muchos.
+    Vamos a dar un ejemplo de como seria si quiero guardar mis jueguitos en un array:
+    let misJueguitos=['Donkey kong', 'Mario Party', 'Mario Kart', 'Zelda', 'Sonic']
+    
