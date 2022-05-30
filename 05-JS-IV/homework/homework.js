@@ -152,9 +152,6 @@ function agregarMetodoCalculoDescuento (producto) {
   }
 
   return producto;
-  //   let descuento = producto['precio'] *producto['porcentajeDeDescuento']  
-  //  let final = producto['precio'] - descuento
-  //   return final;
 
 }
 

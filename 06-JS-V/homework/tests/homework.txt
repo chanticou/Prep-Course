@@ -1,0 +1,21 @@
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+(Entendiendo que los niños ya entienden que es una clase, y una funcion constructora.)
+
+* `prototype`: La keyword -prototype-, sirve para crear metodos afuera de las clases o funciones
+constructoras. ¿Que son los metodos?, simplemente son funciones que se crean adentro de nuestras clases.
+La utilidad de prototype, yace en el lugar que ocupa en memoria, y en el ahorro de repeticiones de codigo.
+    Si yo creo un metodo prototype por fuera de mi clase, podria usarlo para cualquier clase que cree.
+    Hay que tener en cuenta que para esto es necesario utilizar la keyword THIS, que va a hacer referencia 
+    a nuestra clase y a nuestro objeto.
+    Poniendo un ejemplo, si yo estuviese creando el codigo de un jeuguito, del Super Mario Bross, y quiero que 
+    todos mis personajes tengan la capacidad de saltar. En vez de crearle un 'Metodo' dentro de cada molde(clase),
+    podria crear un prototype por fuera, y que todos lo pudiesen usar.
+
+* _Constructors_ (de Clases): Los metodos constructores son nada mas y nada menos, que una funcion adentro
+ de nuestra clase. Cuando creamos una clase con sus propiedades, tmb podemos crear funciones dentro de ella (metodos)
+ que luego vamos a poder utilizarlas con nuestro objeto.
+ 
+
+
