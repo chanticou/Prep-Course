@@ -16,6 +16,8 @@ La utilidad de prototype, yace en el lugar que ocupa en memoria, y en el ahorro 
 * _Constructors_ (de Clases): Los metodos constructores son nada mas y nada menos, que una funcion adentro
  de nuestra clase. Cuando creamos una clase con sus propiedades, tmb podemos crear funciones dentro de ella (metodos)
  que luego vamos a poder utilizarlas con nuestro objeto.
+ Siguiendo con el ejemplo del Mario Bross, si quiero que mi perosnaje (Kupa), tire fuego, ahi aplicaria crearle un
+ metodo, que seria una funcion (accion) dentro de su molde, de su clase; Ya que quiero que El solamente haga eso.
  
 
 
