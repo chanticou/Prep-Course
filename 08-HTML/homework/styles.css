@@ -6,6 +6,8 @@
 
 h1{
     color:red;
+    text-align: center;
+
 }
 
 #thirdDiv{
@@ -15,8 +17,29 @@ h1{
     padding:50px;
     border:1px solid green;
 }
-
+ul{
+    list-style: none;
+}
 #spanId{
     font-size: 18px;
     margin:50px;
+    margin: auto;
+}
+
+.content-main{
+
+    background-image: url("../../08-HTML/homework/assets/img/background.jpeg");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+div{
+    margin: auto;
+    text-align: center;
+
+}
+
+img{
+    margin: auto;
 }
